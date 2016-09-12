@@ -1,0 +1,6 @@
+alias rm='rm -i'
+alias ..='cd ..'
+alias l='ls -lAv --color --group-directories-first'
+alias hpc='ssh js4956@yetisubmit.cc.columbia.edu -Y'
+alias xterm='gnome-terminal'
+alias v='gnome-terminal -e vim'
