@@ -1,749 +1,3 @@
-cd 
-l
-ls -l
-cd ..
-l
-cd opt
-ls
-cd ../bin
-l
-ls -l
-cd
-ls -la
-less .bashrc
-xterm
-xterm-color
-apt-get vim
-apt-get install vim
-su
-htop
-sudo apt-get install htop
-htop
-top
-sudo apt-get install vim
-sudo apt-get update
-apt-get install python
-sudo apt-get install python
-sudo apt-get install git
-cd 
-l
-cd ..
-l
-cd ..
-l
-cd data
-l
-ls -l
-sudo ls -l
-ls -l
-cd ..
-ls -l
-cd home
-l
-ls -l
-mkdir pokemon
-cd saiaj/
-mkdir apps
-cd apps
-mkdir pokemon
-cd pokemon/
-wget 
-wget https://bootstrap.pypa.io/get-pip.py
-python get-pip.py 
-sudo python get-pip.py 
-git clone https://github.com/AHAAAAAAA/PokemonGo-Map.git
-l
-cd PokemonGo-Map/
-pip install -r requirements.txt 
-sudo pip install -r requirements.txt 
-htop
-xterm
-gnome-terminal
-konsole
-sudo apt-get install xterm
-xterm
-lsb_release -a
-cd /mnt
-ls
-cd d
-l
-cd ..
-cd c
-l
-less Recovery.txt 
-cd Users/
-ls
-cd saiaj/
-ls
-cd Documents/
-ls
-cd The\ Witcher\ 3/
-ls
-less user.settings 
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get instal julia
-sudo apt-get install julia
-cd /mnt/C
-cd /mnt/c
-l
-ls -l
-cd Users/
-l
-cd saij
-cd saiaj/
-ls -l
-cd 
-ls -l
-cd ~
-cd ..
-l
-cd ..
-ls -l
-cd
-l -A
-ls- l | more
-ls -l | more
-ls -l
-vim .bash
-ls -lA
-vim .bashrc
-less .bashrc
-vim .bash_aliases
-source .bashrc 
-l
-less .bash_logout 
-exit
-ps
-ps -u
-kill 26
-ps
-ps -u
-man apt-get
-sudo apt-get update
-sudo apt-get updgrade
-sudo apt-get upgrade
-sudo apt-get autoremove
-julia
-sudo apt-get julia
-sudo apt-get install julia
-sudo julia
-sudo add-apt-repository ppa:staticfloat/juliareleases
-sudo apt-get update
-sudo apt-get install julia
-julia
-cd /mnt/c
-l
-cd Users/saiaj/
-l
-cd pokemon/
-l
-rm -f Release.zip 
-l
-cd Release/
-l
-cd Logs/
-l
-vim NecroBot-2016-07-27-11.txt 
-cat NecroBot-2016-07-27-11.txt 
-cd ../..
-cd ..
-mkdir stbl
-cd stbl/
-l
-mkdir logs
-cd logs
-cp /mnt/c/Users/saiaj/Downloads/log_files.zip  .
-unzip log_files.zip 
-sudo apt-get install unzip
-unzip log_files.zip 
-l
-mv log_files.zip stbl_logs/
-cd stbl_logs/
-l
-rm *
-cd ..
-l
-cd stbl_logs/
-cp /mnt/c/Users/saiaj/Downloads/log_files.zip  .
-l
-cd ..
-l
-rm -f stbl_logs/
-rm -fR stbl_logs/
-cp /mnt/c/Users/saiaj/Downloads/log_files.zip  .
-l
-gunzip log_files.zip
-unzip log_files.zip 
-l
-cd log_files/
-l
-cd stbl_logs/
-l
-dos2unix *
-sudo apt-get install dos2unix
-dos2unix *
-l
-cd apps/
-l
-cd pokemon/
-k
-l
-cd PokemonGo-Map/
-l
-sudo ls -l
-a
-less README.md 
-l
-cd templates/
-l
-cd ..
-l
-cd pogom/
-l
-cd ..
-l
-sudo runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-ls
-l
-less runserver.py 
-sudo ./runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-less runserver.py 
-sudo apt-get install nodejs npm
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-sudo apt-get install python python-pip
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-pip install -U flask-cors
-sudo pip install -U flask-cors
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-ls
-cd ..
-l
-sudo python get-pip.py 
-whereis pythong
-whereis python
-whereis python2.7
-whereis python2\.7
-whereis python
-whereis python2\.7
-whereis python2.7
-sudo /usr/bin/python2.7 get-pip.py 
-cd PokemonGo-Map/
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-sudo pip l -U flask-cors
-sudo pip install -U s2sphere
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-sudo pip l -U peewee
-sudo pip install -U peewee
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C"
-sudo pip install -U pgoapi
-cd ../
-cd l
-l
-cd PokemonGo-Map/
-l
-sudo pip install -r requirements.txt 
-sudo npm install
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py -a js4956@columbia.edu -p TinapwfUNI01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py -a google js4956@columbia.edu -p TinapwfUNI01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py -a google -u js4956@columbia.edu -p TinapwfUNI01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py -a google -u joe5saia@gmail.com -p ~google01~ -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py - -u munchumunch2 -p TinapwfPG01st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py - -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-sudo python runserver.py -u munchumunch2 -p TinapwfPG01 -st 100 -l "Washington, D.C" -k "AIzaSyAcaf5GCbpnFtbi7ZWeqtxdp3c3YSqQdDU"
-cd ..
-mkdir iv
-cd iv
-sudo apt-get install -y curl build-essential libprotobuf-dev git pkg-config
-curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
-sudo apt-get install nodejs
-git clone https://github.com/justinleewells/pogo-optimizer
-git status
-l
-cd pogo-optimizer/
-l
-npm install
-npm run install-libs
-npm start
-cd /mnt/c/Users/saiaj/Desktop/
-l
-sudo apt-get install jpehoptim
-sudo apt-get install jpegoptim
-jpegoptim id_pic.jpg 
-man jpegoptim 
-jpegoptim id_pic.jpg  -S 999
-jpegoptim id_pic.jpg  -S999
-jpegoptim id_pic.jpg  -S990
-jpegoptim id_pic.jpg  -S99
-ssh js4956@yetisubmit.cc.columbia.edu
-ping 128.59.40.40
-exit
-l
-vim
-cd /usr/share/vim/
-l
-cd vimfiles
-l
-back
-cd /usr/share/vim/vim74/colors/
-l
-cd ..
-l
-cd colors
-l
-whereis bash
-:q
-exit
-ping 128.59.40.40
-man ping
-ping6 128.59.40.40
-ping6 0:0:0:0:0:ffff:803b:2828
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install R
-sudo apt-get install r
-man tee
-sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
-gpg -a --export E084DAB9 | sudo apt-key add -
-sudo apt-get update
-sudo apt-get install r-base r-base-dev
-sudo apt-get install r-base
-sudo apt-get install r-base-core
-sudo apt-get install r
-sudo apt-get install r-base
-sudo apt-get install 3.3.1-1xenial10
-sudo apt-get install 1xenial10
-sudo apt-get install xenial10
-sudo apt-get install gdebi-core
-sudo apt-get install r-base
-sudo apt-get install r-dev
-sudo apt-get install r-base-dev
-sudo apt-get install xenial
-sudo apt-get install Xenial
-isb-release -a
-lsb-release -a
-lsb_release -a
-sudo apt-get install update-manager-core
-sudo do-release-upgrade
-vim /etc/update-manager/release-upgrades
-sudo vim /etc/update-manager/release-upgrades
-sudo do-release-upgrade
-sudo do-release-upgrade -d
-screnn -S upgrade
-screen -S upgrade
-sudo do-release-upgrade -d
-sudo do-release-upgrade 
-sudo apt-get dist-upgrade
-vim /etc/apt/sources.list
-sudo vim /etc/apt/sources.list
-sudo apt-get install r-base r-dev
-sudo apt-get update
-sudo vim /etc/apt/sources.list
-sudo apt-get update
-sudo apt-get install r-base r-dev
-sudo apt-get install r-base r-base-dev
-R
-julia
-sudo apt0get install python
-sudo apt-get install python
-sudo apt-get autoremove
-vim
-cd
-l
-less .profile 
-less .bashrc 
-less .bash_aliases 
-..
-cd 
-l ../
-echo $PS1
-vim .bashrc 
-cd
-mkdir solarized
-cd solarized/
-git close git://github.com/altercation/solarized.git
-git clone git://github.com/altercation/solarized.git
-l
-cd solarized/
-l
-cd xresources/
-l
-less README.md 
-cd ../files/
-l
-cd ..
-l
-cd xchat/
-l
-less README.md 
-cd ..
-grep -R bash *
-cd utils/
-l
-less README.md 
-cd ..
-l
-cd xresources/
-l
-less README.md 
-screen
-screen-256color
-cd ..
-l
-cd ..
-l
-git clonme https://github.com/seebi/dircolors-solarized.git
-git clone https://github.com/seebi/dircolors-solarized.git
-lk
-l
-cd dircolors-solarized/
-l
-less README.md 
-less dircolors.ansi-light
-cp dircolors.ansi-light ~/.dir_colors
-cd ..
-l
-cd solarized/
-l
-cd vim-colors-solarized/colors/
-l
-cp solarized.vim ~/.vim/colors/
-mkdir ~/.vim
-mkdir ~/.vim/colors
-cp solarized.vim ~/.vim/colors/
-k
-l
-cd ..
-l
-cd ..
-l
-cd dircolors-solarized/
-l
-cp dircolors.ansi-light ~/.dircolors.ansi-light
-cp dircolors.ansi-dark ~/.dircolors.ansi-dark
-cd 
-less .profile 
-less .dircolors.ansi-
-less .dircolors.ansi-light
-cd solarized/
-git clone https://github.com/Anthony25/gnome-terminal-colors-solarized.git
-cd gnome-terminal-colors-solarized/
-./install.sh 
-less install.sh 
-./install.sh 
-cd ~/solarized/
-git clone https://github.com/sigurdga/gnome-terminal-colors-solarized.git
-cd gnome-terminal-colors-solarized/
-l
-exit
-sadsd
-l
-less .dir_colors 
-source .dir_colors 
-l
-vim .vimrc
-vim
-vim .vimrc
-vim
-vim .vimrc 
-echo $TERM
-xterm
-touch .Xresources
-less .Xresources 
-man eval
-eval
-vim .profile 
-l
-source .profile 
-less .bashrc 
-vim .bashrc
-sudo apt-get install dconf-cli
-sudo apt-get install gconftool
-sudo apt-get install gconftool-2
-gvonftool
-gconftool
-sudo apt-get install gconf2
-l
-vim .bashrc
-mv .dircolors.ansi-light .dircolors
-l
-less .dir_colors 
-rm .dir_colors 
-less .dircolors
-vim .vimrc 
-vim a.sh
-vim
-vim a.sh
-vim .vimrc 
-vim a.sh
-less a.sh 
-vim a.sh 
-exit
-hpc
-exit
-k
-l
-ssh-keygen -t dsa
-pwd
-cd user
-cd /usr/
-l
-cd ..
-l
-cd home/saiaj/
-ssh-keygen -t dsa
-chmod 700 .ssh
-chmod 600 .ssh/id_dsa*
-cd .ssh/
-l
-cd id_dsa
-less id_dsa
-less id_dsa.pub 
-less known_hosts 
-cd ..
-l
-cluster
-cc
-l
-vim .bash_aliases 
-hpc
-whereis hpc
-man hpc
-info hpc
-vim .bash_aliases 
-latex
-sudo apt-get texlive-latex-base
-sudo apt-get install texlive-latex-base
-ssh m1jms13@wrds.wharton.edu
-ssh m1jms13@wrds-web.wharton.upenn.edu
-ssh m1jms13@wrds.wharton.upenn.edu
-hpc
-l
-cd ..
-l
-cd ..
-l
-cd 
-l
-cd tmp/
-l
-cd ..
-mkdir gabaix
-cd gabaix/
-l;
-echo "# micofund-aggshocks" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:munchumunch/micofund-aggshocks.git
-git push -u origin master
-l
-git status
-less README.md 
-git remote add origin git@github.com:munchumunch/micofund-aggshocks.git
-git push -u origin master
-cd .
-cd ..
-rm -Rf gabaix/
-mkdir gabaix
-cd gabaix/
-echo "# micofund-aggshocks" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/munchumunch/micofund-aggshocks.git
-git push -u origin master
-cd 
-l
-cd .ssh/
-l
-eval "$(ssh-agent -s)"
-ssh-add id_dsa
-less known_hosts 
-clip
-sudo apt-get install geomview
-clip id_dsa.pub 
-clip < id_dsa.pub 
-man clip
-less id_dsa.pub 
-cd ..
-mkdir backups
-chmod 700 backups/
-cp /mnt/c/Users/saiaj/Downloads/github-recovery-codes.txt .
-mv github-recovery-codes.txt backups/
-cd backups/
-l
-chmod 700 github-recovery-codes.txt 
-l
-cd ..
-l
-ssh -T git@github.com
-cd gabaix/
-l
-rm -F *
-rm -Rf *
-l
-rm -Rf .git/
-git init
-l
-vim .gitignore
-echo "# gabaix" > README.md
-l
-git add README 
-git commit -m "Initial commit"
-git config --global user.name "Joe Saia"
-git config --global user.email js4956@columbia.edu
-git commit --ammend --reset-author
-git log
-git revert
-git revert --quit
-git log
-git status
-vim .gitignore 
-git status
-git commit -m "updated author"
-vim README.md 
-git commit -m "updated author"
-git remote add origin git@github.com:munchumunch/gabaix.git
-git push -u origin master
-cd ..
-l
-rm -Rf gabaix/
-mkdir gabaix
-cd gabaix
-echo "# gabaix" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git log
-cd ..
-cd gabaix/
-git remote add origin git@github.com:munchumunch/gabaix.git
-git push -u origin master
-L
-l
-vim .gitignore
-git add .gitignore 
-git commit --all -m "Added .gitignore file"
-git push -u origin master
-l
-git log
-git status
-vim README.md 
-l
-git status
-git committ -all -m "udated readme"
-git commit -all -m "udated readme"
-git commit --all -m "udated readme"
-git status
-git push origin master 
-cp /mnt/c/Users/saiaj/Downloads/gabaix.tar.gz .
-l
-tar -xfz gabaix.tar.gz 
-tar -xvzf gabaix.tar.gz 
-l
-cd gabaix/
-l
-cd ..
-l
-cp -R gabaix/code .
-l
-cp -R gabaix/output/ .
-l
-cd code
-l
-cd ..
-l
-rm -Rf gabaix
-l
-rm -Rf gabaix.tar.gz 
-l
-git status
-cd ot
-cd output/
-l
-less cash.csv 
-less workingcap.csv 
-cd ..
-l
-cd code
-l
-less runall.sh 
-cd ..
-l
-git add --all
-git commit -m "Added code and output directories and assorted files"
-git status
-git push origin master 
-cd  code
-l
-vim clean_compustat.sas
-ssh js4956@128.59.49.229
-ssh js4956@hpcsubmit.cc.columbia.edu
-ssh js4956@yetisubmit.cc.columbia.edu
-ssh js4956@yetisubmit.cc.columbia.edu 
-exit
-l
-cd .ssh
-l
-scp id_dsa.pub js4956@yetisumbit.cc.columbia.edu:/u/3/j/js4956/.ssh/authorized_keys
-scp id_dsa.pub js4956@yetisubmit.cc.columbia.edu:/u/3/j/js4956/.ssh/authorized_keys
-l
-less known_hosts 
-cd ..
-l
-scp .bash* js4956@yetisubmit.cc.columbia.edu
-scp .bash* js4956@yetisubmit.cc.columbia.edu:/u/3/j/js4956/
-man ssh
-ssh exit
-exit
-ifconfig
-sudo ifconfig
-sudo /sbin/ifconfig 
-less /proc/net
-less /proc/
-less /p
-less /
-cd /
-l
-cd proc/
-l
-cd net/
-l;
-less tcp
-sudo less tcp
-less netlink 
-less tcp
-less tcp6
-less udp
-less udp6
-ip
-exit
-pc
-hpc
-l
-hpc
-l
-scp .dircolors js4956@yettisubmit.cc.columbia.edu:/u/3/j/jms4956/.dircolors
-scp .dircolors js4956@yetisubmit.cc.columbia.edu:/u/3/j/jms4956/.dircolors
-scp .dircolors js4956@yetisubmit.cc.columbia.edu/u/3/j/jms4956/.dircolors
-scp .dircolors js4956@yetisubmit.cc.columbia.edu:/u/3/j/jms4956/.dircolors
-scp ~/.dircolors js4956@yetisubmit.cc.columbia.edu:/u/3/j/jms4956/.dircolors
-scp ~/.dircolors js4956@yetisubmit.cc.columbia.edu:/u/3/j/jms4956/.dircolors2
-scp ~/.dircolors js4956@yetisubmit.cc.columbia.edu:/u/3/j/js4956/.dircolors
-exit
-ssh js4956@yetisubmit.cc.columbia.edu -t
-ssh js4956@yetisubmit.cc.columbia.edu 
-ssh js4956@yetisubmit.cc.columbia.edu -t source /u/3/j/js4956/.bashrc
-man ssh
-ssh js4956@yetisubmit.cc.columbia.edu -h host xterm
-man ssh
-ssh js4956@yetisubmit.cc.columbia.edu -f host xterm
-man ssh
-vim .profile 
-l
 vim .bash_aliases 
 hpc
 hpc -f bash
@@ -1013,3 +267,541 @@ groups
 xterm
 cd
 l
+R
+sudo apt-get install r-base
+R
+cat https://cran.r-project.org/bin/linux/ubuntu/xenial/ >> /etc/apt/sources.list
+sudo cat https://cran.r-project.org/bin/linux/ubuntu/xenial/ >> /etc/apt/sources.list
+l /etc/apt/sources.list
+sudo cat "https://cran.r-project.org/bin/linux/ubuntu/xenial/" >> /etc/apt/sources.list
+vim /etc/apt/sources.list
+sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
+gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
+gpg -a --export E084DAB9 | sudo apt-key add -
+sudo apt-get update
+sudo apt-get updgrade
+sudo apt-get upgrade
+R
+less .bash_aliases 
+vim .bash_aliases 
+vim .vimrc
+echo $PATH
+vim v
+chmod 777 v
+./v test.txt
+./v test.sas
+cd 
+cd ..
+v
+back
+cd
+echo $path
+echo $PATH
+cp v /usr/local/bin/
+sudo cp v /usr/local/bin/
+v
+v test.sas
+cd ../
+v test.sas
+v ~/test.sas
+cd 
+l
+cd .ssh/
+l
+sudo apt-get install git
+git close git@github.com:munchumunch/gabaix.git
+git clone git@github.com:munchumunch/gabaix.git
+clip
+vim id_rsa.pub 
+cd ..
+l
+git clone git@github.com:munchumunch/gabaix.git
+l
+cd gabaix/
+l
+git init
+cd ..
+l
+git init
+v .gitignore
+git add --all
+git status
+git commit
+git config --global js4659@columbia.edu
+git config --global user.email "js4659@columbia.edu"
+git config --global user.name "Joseph Saia"
+git commit
+git log
+git remote add origin git@github.com:munchumunch/profiles.git
+git push -u origin master
+man gnome-terminal
+gnome-terminal -e vim
+gnome-terminal -e vim test.txt
+gnome-terminal -e vim test.sas
+vim
+gnome-terminal -e vim test.sas
+gnome-terminal -e vim "test.sas"
+gnome-terminal -e "vim test.sas"
+l /usr/local/bin
+vim test.txt
+vimm --version
+vim --version
+sudo apt-get install vim-gnome
+vim-gnome
+vim --version
+vim test.txt
+mkdir econometrics
+cd econometrics/
+mkdir ps1
+cd ps1
+v p5.r 
+v p5.R
+cat p5.R | R --vanilla
+cat p.R | R --vanilla
+cat p8.R | R --vanilla
+l
+vim ~/.bashrc
+vim ~/.bash_aliases 
+source(~/.bash_aliases)
+source("~/.bash_aliases")
+cd
+source(./bashrc)
+source("./bashrc")
+xterm
+exit
+l
+cd econometrics/ps1/
+l
+cat p8.R | R --vanilla
+l
+gv Rplots.pdf 
+evince Rplots.pdf 
+sudo apt-get evince
+sudo apt-get install evince
+evince Rplots.pdf 
+cat p8.R | R --vanilla
+evince Rplots.pdf 
+cat p8.R | R --vanilla
+evince Rplots.pdf 
+cat p8.R | R --vanilla
+evince Rplots.pdf 
+cat p8.R | R --vanilla
+evince Rplots.pdf 
+R
+cat p8.R | R --vanilla
+evince Rplots.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_hist1.pdf 
+rm -f *.pdf
+evince ps1_p8_hist1.pdf 
+cat p8.R | R --vanilla
+evince ps1_p8_part_a.pdf 
+sudo apt-get install pdftk
+cat p8.R | R --vanilla
+l
+evince ps1_p8.pdf 
+l
+cat p8.R | R --vanilla
+evince ps1_p8.pdf 
+ps -u
+cd .ssh
+;
+l
+less id_ras.pub
+less id_rsa.pub 
+ssh js4956@wrds.wharton.upenn.edu
+scp .bash* js4956@wrds.wharton.upenn.edu
+scp .bash* js4956@wrds.wharton.upenn.edu/home/columbia/js4956/
+scp .bash* js4956@wrds.wharton.upenn.edu:/home/columbia/js4956/
+scp .vimrc* js4956@wrds.wharton.upenn.edu:/home/columbia/js4956/
+xterm
+ssh js4956@wrds.wharton.upenn.edu
+l
+mkdir gustavo
+cd gustavo
+l
+mkdir test
+cd test
+v 
+cd 
+vim .bash_aliases 
+cd gustavo/
+v 
+v reg_sim.R
+R
+xterm &
+l
+exit
+cd /mnt/
+l
+cd ..
+l
+cd media
+l
+cd sf_users/
+l
+cd saiaj/Desktop/
+mkdir profile
+sudo mkdir profile
+l
+exit
+cd ..
+sudo cp saiaj/Downloads/saiaj.abc ./saiaj.tar.gz
+tar -xzvf saiaj.tar.gz 
+sudo tar -xzvf saiaj.tar.gz 
+l
+cd saiaj/
+ls -la
+exit
+hpc
+ssh js4956@wrds.wharton.upenn.edu
+v .bash_aliases 
+vim .bash_aliases 
+sudo apt-get install vim
+sudo apt-get install vim-gnome
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get updgrade
+sudo apt-get upgrade
+sudo apt-get upgrade mintupdate
+sudo apt-get upgrade
+sudo apt-get upgrade mintsystem
+sudo apt-get upgrade --all
+man apt-get
+sudo apt-get upgrade --ignore-hold
+man apt-get
+man apt-get dist-upgrade
+sudo apt-get dist-upgrade
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
+exit
+l
+git status
+vim .bashrc
+xterm 
+vim .bashrc
+xterm
+gnome-terminal
+sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
+gpg -a --export E084DAB9 | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install r-base r-base-dev
+sudo apt-get update
+sudo apt-get upgrade
+sudo add-apt-repository ppa:staticfloat/juliareleases
+sudo add-apt-repository ppa:staticfloat/julia-deps
+sudo apt-get update
+sudo apt-get install julia
+sudo apt-get install git
+sudo apt-get update
+sudo apt-get upgrade
+hpc
+ssh js4956@wrds.wharton.upenn.edu
+wrds
+less .bash_aliases 
+vim .bash_aliases 
+source(.bashrc)
+xterm &
+gnome-terminal
+echo $0
+l
+vim
+emacs
+sudo apt-get install emacs24
+emacs
+touch test.r
+emacs test.r
+v
+l
+less v 
+./v 
+vim
+vim .vimrc
+vim
+vim .vimrc
+vim
+vim .vimrc
+vim test.r
+vim .vimrc
+vim test.r
+vim .vimrc
+vim test.r
+vim .vimrc
+vim test.r
+Rscript test.r
+htop
+sudo apt-get install htop
+xterm
+htop
+cd Desktop/
+./Mathematica_11.0.0_LINUX.sh 
+cd 
+cd Wolfram/
+l
+cd Mathematica/
+l
+cd Executables/
+l
+Mathematica
+./Mathematica
+exit
+l
+R
+sudo apt-get install texmaker
+sudo apt-get install python
+sudo apt-get update
+sudo apt-get upgrade
+mkdir math_methods
+cd math_methods/
+v &
+xterm -e vim
+wget https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjmo8Goj4_PAhWDKh4KHZ02DFUQFggeMAA&url=https%3A%2F%2Fwww.princeton.edu%2F~glewis%2Fdata%2FLaTeX%2FTexTemplate.tex&usg=AFQjCNHW9Y4dt_TLyrURDn0sJjtY35AzQQ&sig2=OhAnd3wYLBqELdlg5mVXsQ
+l
+rm -f *
+wget https://github.com/jdavis/latex-homework-template/blob/master/homework.tex
+l
+rm homework.tex 
+git clone git@github.com:jdavis/latex-homework-template.git
+l
+cd latex-homework-template/
+l
+less homework.tex
+evince homework.pdf
+sudo apt-get install evince
+evince homework.pdf
+l
+cp homework.tex ../template.tex
+cd ..
+l
+xterm -e vim 
+l
+latex template.tex
+pdflatex template.tex
+sudo apt-get install textlive-latex-base
+sudo apt-get install texlive-latex-base
+pdflatex template.tex
+sudo apt-get install tex-live
+sudo apt-get install texlive
+l
+sudo apt-get update && apt-get install mint-meta-mate
+sudo apt-get update && sudo apt-get install mint-meta-mate
+sudo apt-get update
+sudo apt-get upgrade
+sudo dpkg --configure -a
+sudo apt-get update
+sudo apt-get upgrade
+julia
+cd math_methods/
+l
+cd ..
+cd econometrics/ps1/
+l
+evince ps1_p8.pdf
+v
+vim ~/.bash_aliases 
+source ~/.bashrc 
+v
+l
+v p7.R
+Rscript p8.R
+sudo apt-get install pdftk
+Rscript p8.R
+evince ps1_p8.pdf
+Rscript p8.R
+evince ps1_p8.pdf
+Rscript p8.R
+evince ps1_p8.pdf
+Rscript p8.R
+evince ps1_p8.pdf
+Rscript p8.R
+evince ps1_p8.pdf
+cd /mnt
+l
+cd ../media/
+l
+cd ..
+l
+cd media/saiaj/
+l
+cd joe_saia/
+l
+cd usb_share/
+l
+cp ~/econometrics/ps1/ps1_p8.pdf .
+l
+chmod 777 ps1_p8.pdf 
+l
+exit
+sudo apt-get update
+sudo apt-get updgrade
+sudo apt-get upgrade
+l
+clean
+l
+less .bashrc 
+less .bash_aliases 
+clean
+rm -f #*#
+l
+rm \#test.r# 
+xterm 
+mkdir coursework
+mv -R econometrics/ coursework/
+mv -r econometrics/ coursework/
+mv  econometrics/ coursework/
+mv math_methods/ coursework/
+cd coursework/
+l
+git init
+git add --all
+git commit -m "initial commit"
+git log
+git remote add origin git@github.com:munchumunch/coursework.git
+git push -u origin master
+cd econometrics/
+mkdir ps2
+cd ps2
+l
+touch test.r
+cd ../..
+l
+git add --all
+git commit
+git commit -m "Added econometrics ps2"
+git push origin
+cd ..
+git clone git@github.com:munchumunch/coursework.git
+cd coursework/
+git log
+git status
+git pull origin
+l
+cd math_methods/
+l
+cd ps1/
+l
+evince mm_ps1.pdf 
+git status
+git log
+cd ..
+l
+rm -f a.tex template.*
+rm -rF latex-homework-template/
+rm -Rf latex-homework-template/
+l
+mkdir ps2
+mkdir ps3
+mkdir ps4
+cd ../econometrics/
+l
+mkdir ps3
+mkdir ps4
+cd ..
+mkdir macro
+mkdir micro
+cd macro/
+l
+mkdir ps1 ps2 ps3
+l
+cd ..
+cd micro/
+mkdir ps1 ps2 ps3
+cd ..
+;l
+l
+mkdir template
+cp math_methods/ps1/mm_ps1.tex template/
+l
+cd template/
+l
+vim mm_ps1.tex 
+cd ..
+git add -all
+git add --all
+git commit -m "Cleaned file stucture and added directories for future problem sets"
+vim README
+git add --all
+git commit -m "Added Readme (I think)"
+git push origin
+l
+fit add --all
+git add --all
+git log
+git add macro
+git add micro
+git add template
+git commit --all "Added files" 
+git commit --all -m "Added files" 
+git log
+git push origin
+git add *
+git commit 
+git status
+git add *
+git add macro/*
+git status
+cd macro/ps1/
+l
+touch test
+cd ..
+git add --all
+git commit --all
+git commit --all -m "Touched a file in the macro directory"
+git push origin
+cd ..
+l
+ls -lh
+less blah.R 
+rm blah.R
+vim .bash_aliases 
+gnome-terminal
+vim .bash_aliases 
+gnome-terminal
+wrds
+/sbin/ifconfig
+wrds
+cd 
+vim .bash_aliases 
+xterm
+cd
+l
+l -h
+ls -lh
+cd cpdir/
+l
+less cp2col.pl 
+cd
+cd gabaix/code2
+l
+scp clean_compustat.sas js4956@wrds.wharton.upenn.edu/home/columbia/js4956/
+scp clean_compustat.sas js4956@wrds.wharton.upenn.edu:/home/columbia/js4956/
+git commit --all -m "fixed libnames"
+git push origin
+git commit --all -m "fixed libnames"
+git push origin
+git commit --all -m "fixed libnames"
+git push origin
+git commit --all -m "fixed libnames"
+git push origin
+git commit --all -m "fixed libnames"
+git push origin
+git commit --all -m "fixed libnames"
+git push origin
+cd
+less .vimrc 
